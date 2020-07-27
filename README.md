@@ -1,2 +1,2 @@
 # LoginCheckReact
-Created with CodeSandbox
+simple login check
